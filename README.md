@@ -2,7 +2,7 @@
 
 - I'm a first semester student pursuing Master's of Computer Science at North Carolina State University. 
 
-- During my undergrad, I published one first author [research paper](https://ieeexplore.ieee.org/document/10459177), and two more are currently in the works. The primary focus of these research works has been explainable AI.
+- During my undergrad, I have published one first author [research paper](https://ieeexplore.ieee.org/document/10459177), and two more are currently in the works. The primary focus of these research works has been explainable AI.
 
 - I'm currently learning MLOps.
 
