@@ -1,10 +1,10 @@
 ## Hello Everyone 👋
 
-I'm a first semester student pursuing Master's of Computer Science at North Carolina State University. 
+- I'm a first semester student pursuing Master's of Computer Science at North Carolina State University. 
 
-During my undergrad, I published one first author paper, and two more are currently in the works. The primary focus of these research works has been explainable AI.
+- During my undergrad, I published one first author paper, and two more are currently in the works. The primary focus of these research works has been explainable AI.
 
-I'm currently learning MLOps.
+- I'm currently learning MLOps.
 
 <!--
 **AakashBhandary/AakashBhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
